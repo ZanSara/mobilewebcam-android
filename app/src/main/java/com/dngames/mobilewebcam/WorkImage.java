@@ -120,7 +120,7 @@ public class WorkImage implements Runnable
 		
 		try
 		{
-			if(format.contains("°C"))
+			if(format.contains("ÂºC"))
 			{
 				txt = String.format(format, (int)(level * 100.0), (float)temp / 10.0f);
 			}
