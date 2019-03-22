@@ -1,6 +1,8 @@
-# Mobile Webcam (Android)
+<img align="left" width="50" height="50" src="https://github.com/ZanSara/mobilewebcam-android/blob/master/app/src/main/res/drawable/icon.png">
 
-*Use your Android as a simple mobile webcam or cloudcam via WIFI or Mobile Network!*
+# Mobile Webcam (Android) 
+ 
+ *Use your Android as a simple mobile webcam or cloudcam via WIFI or Mobile Network!*
 
 ---
 
